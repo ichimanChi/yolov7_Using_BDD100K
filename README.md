@@ -1,4 +1,5 @@
 ## YOLOV7：You Only Look Once目标检测模型在pytorch当中的实现
+源码来自Bubbliing:https://github.com/bubbliiiing
 ---
 
 ## 目录
